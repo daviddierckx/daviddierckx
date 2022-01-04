@@ -17,7 +17,7 @@
 - Understand Dutch, French and English
   </p>
 
-<img src="https://i.pinimg.com/originals/0e/37/f0/0e37f08b574c88be3b46e89a0092a7d1.jpg" width="300" align="right" />
+<img src="tokyo-rounded.png" width="300" align="right" />
 
 
 
