@@ -1,9 +1,10 @@
 ### Hi there, I'm David! 👋
 <div>
  
-<img src="https://i.pinimg.com/originals/77/65/07/776507155becf8114634271603b6cb0f.gif" align="right" width="300" />
+<img src="gifpf.gif.gif" align="right" width="200" />
 
-
+<br/>
+ 
 - Live in **Antwerp, Belgium**
 
 - Studying [***Computer Science***]
