@@ -1,23 +1,8 @@
 ### Hi there, I'm David! 👋
 <div>
  
-<img src="https://i.pinimg.com/originals/77/65/07/776507155becf8114634271603b6cb0f.gif" align="left" width="500" />
+<img src="https://i.pinimg.com/originals/77/65/07/776507155becf8114634271603b6cb0f.gif" align="right" width="300" />
 
-  Normal Text
-
-<p align="left" width="500">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
-
-Normal text
-<p align="center">
-  
-- Name **David Dierckx**
 
 - Live in **Antwerp, Belgium**
 
@@ -37,6 +22,7 @@ Normal text
 
   
 ### Github Stats🏆🏆
+ 
 
 <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=daviddierckx&show_icons=true&theme=radical" />
 
@@ -44,7 +30,6 @@ Normal text
 
 <img align="" width="620" src="https://github-readme-streak-stats.herokuapp.com/?user=daviddierckx&theme=radical" />
 </div>
-
 
 
 
