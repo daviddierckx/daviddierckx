@@ -16,12 +16,12 @@
 - Understand Dutch, French and English
   </p>
 
-<img src="./tokyo.jpg" width="300" align="right" />
+<img src="./tokyo2.jpg" width="300" align="right" />
 
 
 
   
-### Github Stats🏆🏆
+### Github Stats🏆🏆🏆
  
 
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=daviddierckx&show_icons=true&theme=radical" />
