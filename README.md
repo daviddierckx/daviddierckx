@@ -25,9 +25,10 @@
 ### Github Stats🏆🏆🏆
  
 
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=daviddierckx&show_icons=true&theme=apprentice" />
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=daviddierckx&show_icons=true&theme=apprentice&show_icons=true&count_private=true" />
 
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddierckx&hide=html&theme=apprentice" />
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddierckx&hide=html,php&theme=apprentice&langs_count=6" />
+
 
 <img align="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=daviddierckx&theme=dark" />
 </div>
