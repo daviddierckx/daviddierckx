@@ -7,7 +7,7 @@
 
 - Studying [***Computer Science***]
 
-- Good with **Javascript**, **NodeJS**, **Java**,**Angular**
+- Good with **Javascript**, **NodeJS**, **C# (.NET)**, **Java**, **Angular**
 
 - Have experience with **Photoshop**
 
