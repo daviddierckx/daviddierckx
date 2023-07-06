@@ -1,8 +1,6 @@
 ## Hi there, I'm David! 👋
 <div>
  
-<img src="gifpf.gif.gif" align="right" width="200" />
-
 <br/>
  
 - Live in **Antwerp, Belgium**
