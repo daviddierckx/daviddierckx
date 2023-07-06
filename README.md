@@ -24,8 +24,7 @@
  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddierckx&hide=html,jupyternotebook&theme=apprentice)](https://github.com/daviddierckx/github-readme-stats)
-
+<img align="" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daviddierckx&hide=jupyter%20notebook,html&&show_icons=true&theme=dark" />
 
 <img align="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=daviddierckx&theme=dark" />
 </div>
